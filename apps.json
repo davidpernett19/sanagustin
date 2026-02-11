@@ -44,7 +44,7 @@
 
   {
     "nombreapp": "ComprApp",
-    "descripcion": "Simula una lista de mercado, suma los valores para llevar la cuenta y controlar lo que compras",
+    "descripcion": "Simula una lista de mercado, suma los valores para llevar la cuenta y controlar las compras",
     "icono": "https://www.shutterstock.com/image-vector/shopping-cart-blue-vector-icon-600nw-2467365901.jpg",
     "grupo": "martes",
     "fecha": "2024-11-15",
