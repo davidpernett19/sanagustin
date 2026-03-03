@@ -55,6 +55,22 @@
     ],
     "actividad": "Primera Clase",
     "url": "https://drive.google.com/file/d/1BX9-lCaqvNCjWpugjcLgAYwhpSJJQTmu/view?usp=sharing"
+  },
+
+  {
+    "nombreapp": "UTaskApp",
+    "descripcion": "Controla todo el tiempo en que inviertes en estudiar una materia de la Universidad, Colegio, o incluso instituto de idiomas",
+    "icono": "https://chatgpt.com/s/m_69a66f3cf8a08191adbe96c830728231",
+    "grupo": "martes",
+    "fecha": "2026-03-02",
+    "id": 1,
+    "integrantes": [
+      "David Pernett",
+      "Emmanuel Redondo"
+    ],
+    "actividad": "Actividad react + capacitor / EXPO",
+    "url": "https://drive.google.com/file/d/1BX9-lCaqvNCjWpugjcLgAYwhpSJJQTmu/view?usp=sharing"
   }
   
+
 ]
